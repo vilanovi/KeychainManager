@@ -1,7 +1,7 @@
 //
 //  AMKeychainManager.h
-//
 //  Created by Joan Martin.
+//  Take a look to my repos at http://github.com/vilanovi
 //
 
 #import <Foundation/Foundation.h>
